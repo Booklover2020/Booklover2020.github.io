@@ -4,7 +4,11 @@ img {
 body{
     text-align:center;
     font-family: Arial;
-    background-image:url("https://californiathroughmylens.com/wp-content/uploads/2016/08/lands-end-12-640x427.jpg") 
+    background-image:url("https://data.whicdn.com/images/220652927/original.gif"); 
     color:LightSalmon;
     
+}
+#name{
+   color:SeaShell; 
+   font-family: cursive;
 }
